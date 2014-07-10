@@ -79,11 +79,7 @@ function trataemail(){
       echo -e "$v||$cp Liberando terminal.";
       sleep 3
       clear
-      echo " ____ ____ ____ ____ ";
-      echo "||w |||o |||l |||k ||";
-      echo "||__|||__|||__|||__||";
-      echo "|/__\|/__\|/__\|/__\|";
-      echo "";
+      echo "Bem vindo !";
 
       # Restaurando o recurso do CTRL+C
       stty 500:5:bf:8a3b:3:1c:7f:15:4:0:1:0:11:13:1a:0:12:f:17:16:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
